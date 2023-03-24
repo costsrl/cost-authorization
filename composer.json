@@ -1,0 +1,21 @@
+{
+  "name" : "cost/cost-authorization",
+  "description" : "Authorization based on DoctrineORMModule",
+  "require" : {
+    "php" : ">=5.6.1"
+  },
+  "license" : "BSD-3-Clause",
+  "keywords" : [ "zf3", "cost-authentication", "doctrine-orm-module", "doctrine" ],
+  "minimum-stability" : "dev",
+  "autoload" : {
+    "psr-4" : {
+      "CostAuthorization\\" : "src/"
+    }
+  },
+  "authors" : [ {
+    "name" : "Renato Salvatori",
+    "email" : "renato.s@cost.it",
+    "homepage" : "http://www.cost.it",
+    "role" : "Developer"
+  } ]
+}
