@@ -1,5 +1,5 @@
 {
-  "name" : "cost/cost-authorization",
+  "name" : "costsrl/cost-authorization",
   "description" : "Authorization based on DoctrineORMModule",
   "require" : {
     "php" : ">=5.6.1"
